@@ -32,3 +32,10 @@ To start frontend: npm start
 
 <br/>
 To start backend : npm start
+
+https://www.youtube.com/watch?v=rWG8rNi-Jow&ab_channel=Let%27sGrow
+
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1677996638/chatty/Screenshot_263_tbaqnd.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1677996639/chatty/Screenshot_264_vgtpow.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1677996639/chatty/Screenshot_265_yq5epn.png"/>
+<img src="https://res.cloudinary.com/codercloud/image/upload/v1677996639/chatty/Screenshot_266_rdwxxs.png"/>
