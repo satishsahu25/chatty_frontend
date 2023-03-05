@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chatty_frontend/static/css/main.7bdc216d.css",
+    "main.js": "/chatty_frontend/static/js/main.b0b0e833.js",
+    "static/media/robot.gif": "/chatty_frontend/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/logo.svg": "/chatty_frontend/static/media/logo.ccfbd90732828204fa6989c0f15638c0.svg",
+    "index.html": "/chatty_frontend/index.html",
+    "main.7bdc216d.css.map": "/chatty_frontend/static/css/main.7bdc216d.css.map",
+    "main.b0b0e833.js.map": "/chatty_frontend/static/js/main.b0b0e833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bdc216d.css",
+    "static/js/main.b0b0e833.js"
+  ]
+}
