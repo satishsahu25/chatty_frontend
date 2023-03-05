@@ -16,5 +16,19 @@ cors
 dotenv
 express
 socket.io
+uuid
+<br/>
+Frontend:
+react-router-dom
+react-icons
+socket.io-client
+axios
+react-toastify
+styled-components
 
 
+<br/>
+To start frontend: npm start
+
+<br/>
+To start backend : npm start
